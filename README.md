@@ -1,4 +1,4 @@
-echo "# Binary Tree Path Finder
+# Binary Tree Path Finder
 
 ## Overview
 This project implements a sophisticated binary tree representation using an NxN adjacency matrix, developed as part of the Systems Programming Laboratory course (20465) at the Open University of Israel. The implementation provides an efficient way to determine ancestral relationships between nodes in a binary tree structure.

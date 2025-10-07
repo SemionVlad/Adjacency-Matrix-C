@@ -64,4 +64,5 @@ This implementation assumes:
 This project is part of academic coursework and is subject to university guidelines.
 
 ---
-*Developed with ❤️ and ☕ by Shimon Esterkin*" > README.md
+*Developed with ❤️ and ☕ by Shimon Esterkin*
+

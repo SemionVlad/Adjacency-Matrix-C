@@ -64,6 +64,4 @@ This implementation assumes:
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
-*Developed with ❤️ and ☕ by Shimon Esterkin*
-
-
+Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.

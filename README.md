@@ -66,9 +66,10 @@ This implementation assumes:
 - Input values are strictly binary (0 or 1)
 - The matrix represents a valid binary tree structure
 
+---
 ## 📄 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+
 

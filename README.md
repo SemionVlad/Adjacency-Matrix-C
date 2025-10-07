@@ -61,8 +61,9 @@ This implementation assumes:
 - The matrix represents a valid binary tree structure
 
 ## 📄 License
-This project is part of academic coursework and is subject to university guidelines.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 *Developed with ❤️ and ☕ by Shimon Esterkin*
+
 

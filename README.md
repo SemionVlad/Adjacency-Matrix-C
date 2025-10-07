@@ -1,5 +1,11 @@
 # Binary Tree Path Finder
 
+## Author
+- **Name**: Shimon Esterkin  
+- **ID**: *****2258  
+- **Course**: System Programming Laboratory (20465)  
+- **Semester**: 2025A
+
 ## Overview
 This project implements a sophisticated binary tree representation using an NxN adjacency matrix, developed as part of the Systems Programming Laboratory course (20465) at the Open University of Israel. The implementation provides an efficient way to determine ancestral relationships between nodes in a binary tree structure.
 
@@ -65,3 +71,4 @@ This implementation assumes:
 
 ---
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+

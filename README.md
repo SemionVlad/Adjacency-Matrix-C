@@ -8,6 +8,7 @@
 ![Representation: Adjacency Matrix](https://img.shields.io/badge/Representation-Adjacency%20Matrix-6aa84f)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+> C90 implementation of a binary tree over an N x N adjacency matrix with a path(u,v) ancestor check; array-based I/O, bounds validation, and make/gcc build.
 
 ## Author
 - **Name**: Shimon Esterkin  
@@ -78,6 +79,3 @@ This implementation assumes:
 ---
 
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
-
-
-

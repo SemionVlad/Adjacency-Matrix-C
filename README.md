@@ -1,4 +1,13 @@
 # Binary Tree Path Finder
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: C](https://img.shields.io/badge/Language-C-blue?logo=c)
+![Standard: ISO C90](https://img.shields.io/badge/Standard-ISO%20C90-4c1)
+![Build: make](https://img.shields.io/badge/Build-make-007acc?logo=gnu)
+![Compiler: gcc](https://img.shields.io/badge/Compiler-gcc-a42e2b?logo=gnu)
+![Data Structure: Binary Tree](https://img.shields.io/badge/Data%20Structure-Binary%20Tree-795548)
+![Representation: Adjacency Matrix](https://img.shields.io/badge/Representation-Adjacency%20Matrix-6aa84f)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ## Author
 - **Name**: Shimon Esterkin  
@@ -67,9 +76,8 @@ This implementation assumes:
 - The matrix represents a valid binary tree structure
 
 ---
-## 📄 License
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+
 
 
